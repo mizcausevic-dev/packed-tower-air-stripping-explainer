@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/packed-tower-air-stripping-explainer/
 
+Repository: https://github.com/mizcausevic-dev/packed-tower-air-stripping-explainer
+
 ## What this is
 
 An interactive anatomy plate for Packed-Tower Air Stripping. Play, scrub, or jump the five stages. The same frame always draws the same picture.
